@@ -66,8 +66,7 @@ pip install numpy pandas matplotlib seaborn opencv-python scikit-learn tensorflo
 
 | Before (CT)                        | After (Predicted MRI)                 |
 | ---------------------------------- | ------------------------------------- |
-| ![CT Image](![IMG-0011-pt6](![IMG-0023-pt14](https://github.com/user-attachments/assets/8c58b067-2c32-4c3b-a8e3-5f3886bf079f)
-) | ![MRI Output](![IMG-0023-pt14](https://github.com/user-attachments/assets/18512476-7b41-4ae3-a4ec-6efc68770a88)
+| ![CT Image](![IMG-0011-pt6](![IMG-0023-pt14](https://github.com/user-attachments/assets/8c58b067-2c32-4c3b-a8e3-5f3886bf079f)| ![MRI Output](![IMG-0023-pt14](https://github.com/user-attachments/assets/18512476-7b41-4ae3-a4ec-6efc68770a88)
 
 ---
 
