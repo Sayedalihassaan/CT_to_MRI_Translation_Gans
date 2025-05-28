@@ -86,7 +86,7 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**\[Your Name]**
+**\[Sayed Ali]**
 [Your GitHub Profile](https://github.com/Sayedalihassaan)
 
 ---
