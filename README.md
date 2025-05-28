@@ -1,4 +1,3 @@
-````markdown
 # 🧠 CT to MRI Translation Using Deep Learning
 
 This project implements a deep learning pipeline for translating Computed Tomography (CT) images to Magnetic Resonance Imaging (MRI) scans using a convolutional neural network (CNN) architecture. This technique is relevant in medical imaging tasks where MRI is less accessible or CT offers limited information. The project showcases preprocessing, model training, evaluation, and visualization.
@@ -68,9 +67,7 @@ pip install numpy pandas matplotlib seaborn opencv-python scikit-learn tensorflo
 | Before (CT)                        | After (Predicted MRI)                 |
 | ---------------------------------- | ------------------------------------- |
 | ![CT Image](![IMG-0011-pt6](![IMG-0023-pt14](https://github.com/user-attachments/assets/8c58b067-2c32-4c3b-a8e3-5f3886bf079f)
-)
 ) | ![MRI Output](![IMG-0023-pt14](https://github.com/user-attachments/assets/18512476-7b41-4ae3-a4ec-6efc68770a88)
-) |
 
 ---
 
@@ -96,8 +93,3 @@ This project is open-source and available under the MIT License.
 ---
 
 ## ⭐️ If you find this project useful, please give it a star on GitHub!
-
-```
-
-Let me know if you’d like me to automatically extract image paths, plot sample results, or generate a `requirements.txt` file.
-```
